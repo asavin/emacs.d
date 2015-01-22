@@ -1,0 +1,43 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/" . "Applications/")
+ ("/Users/alex/red-badger/" . "ighs/")
+ ("/Users/alex/.emacs.d/" . "customizations/")
+ ("/Users/alex/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/alex/.emacs.d/customizations/"
+ "/Users/alex/Documents/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ui.el"
+ "Fortnum & Mason awards website colours.pdf"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/alex/.emacs.d/" (21697 3911 0 0) "tutorial/" "themes/" "README.md" "projectile-bookmarks.eld" "places" "init.el" "ido.last" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/alex/" (21697 3265 0 0) "Wine Files/" "VirtualBox VMs/" "View Results in Table.jmx" "vagrant.retry" "top.sh" "top-output.txt" "test.txt" "stereo photo vault/" "Spotify/" "red-badger/" "qtip/" "Public/" "podcasts/" "Pictures/" "ngrok" "Music/" "Movies/" "Library/" "Kitematic/" "jmeter.jmx" "jmeter.csv" "iOS experiments/" "Google Drive Red Badger/" "Google Drive/" "github/" "emacs-test.txt" "Dropbox/" "Downloads/" "Documents/" "development.retry" "Desktop/" "Creative Cloud Files (alex@karismafilms.fi)/" "Creative Cloud Files/" "clojure/" "cert/" "books/" "bin/" "Applications/" "AndroidStudioProjects/" "Adobe/" ".zshrc" ".zlogin" ".yandex/" ".Xauthority" ".viminfo" ".vim/" ".vagrant.d/" ".travis/" ".Trash/" ".tmuxinator/" ".tmux.conf" ".tmux/" ".subversion/" ".ssh/" ".rvm/" ".rnd" ".profile" ".pagekite.rc" ".nvm/" ".npm/" ".node-gyp/" ".ngrok" ".meteorsession" ".meteorite/" ".meteor/" ".m2/" ".local/" ".lein/" ".idm/" ".htoprc" ".gradle/" ".gitconfig" ".git-completion.bash" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox_uploader" ".dropbox/" ".distlib/" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".boot2docker/" ".bashrc" ".bash_prompt" ".bash_profile" ".bash_history" ".aws/" ".atom/" ".aspera/" ".ansible/" ".android/" ".adobe/" "../" "./")
+
+ ("/Applications/" (21697 2453 0 0) "Yandex.app/" "Xcode.app/" "WineBottler.app/" "Wine.app/" "VLC.app/" "VirtualBox.app/" "Vagrant/" "uTorrent.app/" "Utilities/" "Twitter.app/" "TweetDeck.app/" "Tunnelblick.app/" "TotalTerminal.app/" "TorBrowser.app/" "Time Machine.app/" "Textual.app/" "TextEdit.app/" "TeamViewer.app/" "System Preferences.app/" "Sunrise.app/" "Sublime Text.app/" "Stickies.app/" "StarCraft II/" "Spotify.app/" "Slack.app/" "Skype.app/" "Skitch.app/" "SketchyDraw.app/" "Screenhero.app/" "Scarlett MixControl.app/" "Sauce.app/" "Safari.app/" "Reminders.app/" "QuickTime Player.app/" "PureVPN.app/" "Preview.app/" "PopcornTime.app/" "Photo Booth.app/" "Parallels Desktop.app/" "Pages.app/" "p4merge.app/" "Opera.app/" "Numbers.app/" "Notes.app/" "MultiDoge.app/" "Movie Tools/" "Mou.app/" "Mission Control.app/" "Microsoft Silverlight/" "Messages.app/" "Maps.app/" "Mailbox (Beta).app/" "Mail.app/" "MacDjView.app/" "LRTimelapse 3.app/" "LiveReload.app/" "Live Wallpaper.app/" "LimeChat.app/" "LICEcap.app/" "Launchpad.app/" "Keynote.app/" "iTunes.app/" "iTerm.app/" "iStat Menus.app/" "iPhoto.app/" "Inkscape.app/" "iMovie.app/" "Image Capture.app/" "iBooks.app/" "HipChat.app/" "Hearthstone/" "Google Web Designer.app/" "Google Drive.app/" "Google Chrome.app/" "Google Chrome Canary.app/" "GitHub.app/" "GarageBand.app/" "GarageBand 6.0.5/" "Game Center.app/" "ForkLift.app/" "Font Book.app/" "FirefoxDeveloperEdition.app/" "Firefox.app/" "FaceTime.app/" "Evernote.app/" "Emacs.app/" "DVD Player.app/" "Dropbox.app/" "Disk Inventory X.app/" "DiffMerge.app/" "Dictionary.app/" "Dashboard.app/" "Dash.app/" "Contacts.app/" "Citrix Receiver.app/" "Chess.app/" "Canon Utilities/" "CamCamX FREE.app/" "Calendar.app/" "Calculator.app/" "Caffeine.app/" "boot2docker.app/" "Bleep.app/" "Blackmagic Multibridge Utility.app/" "Blackmagic Media Express.app/" "Blackmagic LiveKey.app/" "Blackmagic Disk Speed Test.app/" "BBC iPlayer Downloads.app/" "Battle.net.app/" "Bartender.app/" "Backblaze.app/" "Automator.app/" "Atom.app/" "App Store.app/" "Android Studio.app/" "All.Notes.app/" "Alfred 2.app/" "Adobe SpeedGrade CC 2014/" "Adobe Premiere Pro CC 2014/" "Adobe Photoshop Lightroom 5.app/" "Adobe Photoshop CC 2014/" "Adobe Media Encoder CC 2014/" "Adobe Illustrator CC 2014/" "Adobe Edge Inspect CC.app/" "Adobe Creative Cloud/" "Adobe Audition CC 2014/" "Adobe/" "1Password 5.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/" (21569 4063 0 0) "Shared/" "Guest/" "alex/" ".localized" "../" "./")
+
+ ("/Users/alex/red-badger/ighs/" (21694 29699 0 0) "wti_master.sh" "windowsstart.bat" "webservers/" "web.config" "views/" "version.json" "Vagrantfile" "tunnels" "specs/" "spec/" "routes/" "Readme.md" "public/" "provisioning/" "parallel_test_runner.sh" "pagekite.py" "package.json" "npm-shrinkwrap.json" "node_modules/" "nightly_build.sh" "middleware/" "locales/" "licenses.txt" "lib/" "index.ls" "index.js" "iisnode.yml" "gulpfile.ls" "gulpfile.js" "Gruntfile.coffee" "features.md" "docs/" "deployment/" "config/" "components/" "circle.yml" "assets/" "app.ls" ".wti" ".vagrant/" ".tunnels" ".jshintrc" ".gitignore" ".git/" ".DS_Store" ".csscomb.json" "../" "./")
+
+ ("/Users/alex/red-badger/" (21693 3177 0 0) "wrr-api/" "wrr-admin/" "wrr/" "website/" "vatican-city.html.md" "validator.js/" "validator/" "vagrant-provisioning-test/" "tooltip/" "tests/" "testcomponent/" "tesco-ighs-webui/" "tesco-ighs-tunnelling/" "tesco guidelines/" "temp/" "submit/" "stashes/" "slide/" "sampling-mocks.jmx" "rugged-redis/" "reflex-cli/" "reflex poster.psd" "reflex/" "reactls-talk/" "react-fw-app/" "radiobadger.com/" "pillbox/" "pager/" "nodejs-self-signed-certificate-example/" "node_modules/" "node-memwatch-demo/" "mytestcomponent/" "myapp2/" "keys/" "ighs.wiki/" "IGHS-prototype/" "ighs/" "igapi/" "i18next-webtranslate/" "hello-express/" "haller/" "GuardianRegistrationDemo.zip" "GuardianRegistrationDemo/" "github/" "generator-reflex/" "generator/" "fm-store/" "Dropbox-Uploader/" "docker/" "dialog/" "datepicker/" "crypto.ls" "cookie-disclaimer/" "collapsible/" "challenges/" "blogpost_components.md" "badger-time-env/" "badger-bot/" "assign-regions.ls" "apinger/" ".DS_Store" "../" "./")
+
+ ("/Users/alex/.emacs.d/customizations/" (21695 53910 0 0) "ui.el" "themes.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/alex/Documents/" (21693 27534 0 0) "WebEx/" "Tower Hamlets council tax 2014-2015.pdf" "test.md" "stereo photomaker.app/" "red_badger_components_blogpost.md" "ReactLS slides.zip" "ReactLS slides.key/" "power of attorney.pages/" "Parallels/" "LRTExport.log" "livescript_refactoring_blogpost.md" "IMG_20150112_0001.pdf" "IMG_0577.jpg" "IMG_0575.jpg" "IMG_0574.jpg" "IMG_0573.jpg" "ighs demo presentation.zip" "ighs demo presentation.key/" "gtests/" "ga_ux_intro_notes.md" "functional_refactoring_with_livescript_gists_embedded.md" "Fortnum & Mason awards website colours.pdf" "eclipse-workspace/" "digging tunnels.md" "DesignLibrary_Photoshop.log" "DesignLibrary_Illustrator.log" "cyrillic student layout.keylayout" "cookie-disclaimer-screengrab.mov" "cookie-disclaimer-screengrab.gif" "componentify_it_red-badger_post.md" "componentify_it.md" "Adobe/" "037e8170-ac55-11e3-8b43-5fdbb02c9b17.png" ".parallels-vm-directory/" ".localized" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
